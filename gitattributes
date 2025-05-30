@@ -1,0 +1,3 @@
+*.cs linguist-language=C#
+*.graphql linguist-language=GraphQL
+*.sql linguist-language=SQL
