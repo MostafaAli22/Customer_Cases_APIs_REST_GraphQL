@@ -9,6 +9,24 @@
 ✅ Interactive Swagger UI for REST API documentation
 ✅ GraphQL Playground (Banana Cake Pop) for schema exploration and query testing
 
+
+
+🛠️ Technologies Used:
+
+
+✅ ASP.NET Core 8
+
+✅ Entity Framework Core
+
+✅ Hot Chocolate GraphQL
+
+✅ SQL Server
+
+✅ Swagger (Swashbuckle)
+
+✅ Newtonsoft.Json
+
+
 🚀 Getting Started
 📥 Clone the Repository
 
@@ -97,18 +115,8 @@ mutation {
     email
   }
 }
-🛠️ Technologies Used
-ASP.NET Core 8
 
-Entity Framework Core
 
-Hot Chocolate GraphQL
-
-SQL Server
-
-Swagger (Swashbuckle)
-
-Newtonsoft.Json
 
 🙌 Contributing
 Feel free to open issues, submit pull requests, or suggest features!
